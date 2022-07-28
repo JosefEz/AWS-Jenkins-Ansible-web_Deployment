@@ -1,0 +1,5 @@
+[webservers]
+ubuntu@18.118.185.220
+
+[jenkins]
+ubuntu@18.222.132.101
